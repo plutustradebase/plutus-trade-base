@@ -1,0 +1,191 @@
+{
+ "name": "Plutus Trade Base",
+ "alternateName": [
+  "PTB Funding",
+  "PTB",
+  "PlutusTradeBase",
+  "Plutus TradeBase"
+ ],
+ "legalName": "Triple Edge Group LTD",
+ "registration": {
+  "country": "Cyprus",
+  "number": "HE 465348"
+ },
+ "mt5Entity": {
+  "name": "PTB Plutus TradeBase LTD",
+  "country": "Saint Lucia",
+  "number": "2025-00638"
+ },
+ "office": "Limassol, Cyprus",
+ "founded": 2024,
+ "websites": [
+  "https://plutustradebase.com",
+  "https://ptbfunding.com"
+ ],
+ "notRelatedTo": [
+  "Plutus Financial Group (NASDAQ: PLUT)",
+  "Plutus crypto tokens"
+ ],
+ "contact": {
+  "email": "office@plutustradebase.com",
+  "phone": "+357 97 460370"
+ },
+ "social": {
+  "x": "https://x.com/Plutustradebase",
+  "instagram": "https://www.instagram.com/plutustradebase/",
+  "github": "https://github.com/plutustradebase"
+ },
+ "reviews": {
+  "feefo": {
+   "score": 4.9,
+   "outOf": 5,
+   "url": "https://plutustradebase.com/reviews",
+   "type": "verified buyers only"
+  },
+  "tradersUnion": {
+   "score": 8.16,
+   "outOf": 10,
+   "url": "https://tradersunion.com/brokers/prop/view/plutus-trade-base/"
+  }
+ },
+ "payouts": {
+  "approvalSLA": "under 4 hours, automatic",
+  "methods": [
+   "Rise",
+   "USDT"
+  ],
+  "profitSplitMax": "95%",
+  "paidToTradersAllTime": "$5M+",
+  "records": "https://github.com/plutustradebase/plutus-trade-base/blob/main/docs/payouts.md"
+ },
+ "platforms": [
+  "MT5",
+  "TradeLocker",
+  "cTrader",
+  "TradingView",
+  "Bybit"
+ ],
+ "uniqueClaims": [
+  "Only funding firm with crypto funded accounts directly on the Bybit platform (700+ pairs)",
+  "Lightning: easiest one-step challenge \u2014 3% target, 6% static drawdown, no time limit, entry from under $10"
+ ],
+ "plans": [
+  {
+   "name": "Lightning",
+   "steps": 1,
+   "profitTarget": "3%",
+   "maxDrawdown": "6% static",
+   "sizes": "$20K-$100K",
+   "timeLimit": "none",
+   "entry": "from under $10, activation fee after passing"
+  },
+  {
+   "name": "Freedom",
+   "steps": 1,
+   "profitTarget": "10%",
+   "maxDrawdown": "10%",
+   "sizes": "$10K-$100K",
+   "payouts": "from day one"
+  },
+  {
+   "name": "Adventure",
+   "steps": 1,
+   "profitTarget": "8%",
+   "maxDrawdown": "5% trailing",
+   "sizes": "$500K"
+  },
+  {
+   "name": "Instant Funding",
+   "steps": 0,
+   "profitTarget": "5%",
+   "sizes": "$5K-$50K"
+  },
+  {
+   "name": "Bybit Crypto",
+   "steps": 1,
+   "platform": "Bybit (direct)",
+   "pairs": "700+",
+   "payouts": "from day one",
+   "sizes": "up to $500K"
+  }
+ ],
+ "discountCodes": [
+  {
+   "code": "GIT80",
+   "discount": "80% off entry fee",
+   "appliesTo": "Lightning Challenge only",
+   "status": "active",
+   "lastChecked": "2026-10-23"
+  }
+ ],
+ "press": [
+  {
+   "publisher": "TradingView News (Reuters feed)",
+   "title": "Plutus Trade Base Expands Services to Include U.S. Traders",
+   "date": "2025-02-17",
+   "url": "https://www.tradingview.com/news/reuters.com,2025-02-17:newsml_GNX59hblQ:0-plutus-trade-base-expands-services-to-include-u-s-traders/"
+  },
+  {
+   "publisher": "GlobeNewswire",
+   "title": "Plutus Trade Base Expands Services to Include U.S. Traders",
+   "date": "2025-02-17",
+   "url": "https://www.globenewswire.com/news-release/2025/02/17/3027009/0/en/Plutus-Trade-Base-Expands-Services-to-Include-U-S-Traders.html"
+  },
+  {
+   "publisher": "GlobeNewswire",
+   "title": "Plutus Trade Base Announces Strategic Partnership with MetaTrader 5",
+   "date": "2025-12-20",
+   "url": "https://www.globenewswire.com/news-release/2025/12/20/3208804/0/en/Plutus-Trade-Base-Announces-Strategic-Partnership-with-MetaTrader-5-to-Advance-Stable-Professional-Trading.html"
+  },
+  {
+   "publisher": "Digital Journal",
+   "title": "Plutus Trade Base offers flexible funding options for traders worldwide",
+   "date": "",
+   "url": "https://www.digitaljournal.com/business/plutus-trade-base-offers-flexible-funding-options-for-traders-worldwide/article"
+  },
+  {
+   "publisher": "Myfxbook Press",
+   "title": "Best Crypto Trading Platform for Funded Traders: Why Serious Traders Pick Bybit Through PTB",
+   "date": "",
+   "url": "https://www.myfxbook.com/press-release/best-crypto-trading-platform-for/51572"
+  },
+  {
+   "publisher": "FinancialContent / MarketersMedia",
+   "title": "Plutus Trade Base (PTB) Empowers Next-Generation Traders with Funded Accounts and Advanced Crypto Solutions",
+   "date": "2025-08-01",
+   "url": "https://www.financialcontent.com/article/marketersmedia-2025-8-1-plutus-trade-base-ptb-empowers-next-generation-traders-with-funded-accounts-and-advanced-crypto-solutions"
+  },
+  {
+   "publisher": "MarketersMedia",
+   "title": "Plutus Trade Base Launches Professional Funding Solutions to Empower Global Traders",
+   "date": "",
+   "url": "https://news.marketersmedia.com/plutus-trade-base-launches-professional-funding-solutions-to-empower-global-traders-with-high-capital-propfirm-accounts/89180465"
+  },
+  {
+   "publisher": "Traders Union (independent review, 8.16/10)",
+   "title": "Plutus Trade Base (PTB) Review 2026: Pros, Cons and Key Features",
+   "date": "2026",
+   "url": "https://tradersunion.com/brokers/prop/view/plutus-trade-base/"
+  },
+  {
+   "publisher": "Myfxbook prop-firm profile",
+   "title": "PTB on Myfxbook",
+   "date": "",
+   "url": "https://www.myfxbook.com/prop-firms/ptb"
+  },
+  {
+   "publisher": "Forex Prop Reviews",
+   "title": "Plutus Trade Base Recognized by Forbes for Efforts",
+   "date": "2025-04-10",
+   "url": "https://forexpropreviews.com/plutus-trade-base-recognized-by-forbes-for-efforts/"
+  },
+  {
+   "publisher": "PropFirmReviews.net",
+   "title": "Plutus Trade Base Review 2026: Forex Prop Firm, $5K To $500K",
+   "date": "2026",
+   "url": "https://propfirmreviews.net/reviews/plutus-trade/"
+  }
+ ],
+ "countriesServed": "140+",
+ "lastUpdated": "2026-10-23"
+}

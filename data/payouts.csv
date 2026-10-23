@@ -1,0 +1,2 @@
+date,country,plan,account_size_usd,amount_usd,approved_in_hours,method
+# one row per payout; export weekly from the admin; real amounts, no rounding
