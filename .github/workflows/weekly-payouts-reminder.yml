@@ -1,0 +1,15 @@
+name: Weekly payouts update reminder
+on:
+  schedule: [{cron: '0 9 * * 1'}]
+  workflow_dispatch:
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    permissions: {issues: write}
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.create({owner: context.repo.owner, repo: context.repo.repo,
+              title: `Update payouts.md + data/payouts.csv — week of ${new Date().toISOString().slice(0,10)}`,
+              body: 'Export last week\'s payouts from the admin, append to data/payouts.csv, update totals in docs/payouts.md, commit as "payouts: week of YYYY-MM-DD".'});
