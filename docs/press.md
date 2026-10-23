@@ -26,4 +26,4 @@ Independent and syndicated coverage of **Plutus Trade Base (PTB Funding)**. Link
 A Forbes feature on Plutus Trade Base has been reported by third-party sites. <!-- Max: paste the forbes.com URL here when you have it; do not list it in the table without the direct link. -->
 
 ---
-**Plutus Trade Base / PTB Funding** · https://plutustradebase.com · https://ptbfunding.com · Verified reviews (Feefo): https://plutustradebase.com/reviews · Payout records: [payouts.md](https://github.com/plutustradebase/plutus-trade-base/blob/main/docs/payouts.md) · Discount: [GIT80 — 80% off Lightning](https://github.com/plutustradebase/plutus-trade-base/blob/main/docs/discount-code.md)
+**Plutus Trade Base / PTB Funding** · https://plutustradebase.com · https://ptbfunding.com · Verified reviews: [Feefo](https://www.feefo.com/en-GB/reviews/plutustradebase-com) · [Myfxbook](https://www.myfxbook.com/reviews/prop-trading-firms/ptb/3325957,1) · Payout proofs: [Discord](https://discord.gg/plutustradebase) · [Instagram](https://www.instagram.com/plutustradebase) · Discount: [GIT80 — 80% off Lightning](https://github.com/plutustradebase/plutus-trade-base/blob/main/docs/discount-code.md)

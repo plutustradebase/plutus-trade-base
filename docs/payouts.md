@@ -17,11 +17,17 @@ PTB approves payouts automatically in **under 4 hours** and pays by Rise or USDT
 ## Recent payouts
 Full rows in [data/payouts.csv](../data/payouts.csv) (date, country, plan, account size, amount, approval time).
 
-## Trader-posted proofs
+## Trader-posted proofs — see them today
+- **Discord payouts channel** (traders post their own confirmations daily): https://discord.gg/plutustradebase
+- **Instagram stories** (daily payout screenshots): https://www.instagram.com/plutustradebase
+- **YouTube** trader payout videos: https://www.youtube.com/@plutustradebase_ptb
+- **Verified reviews mentioning payouts** (Feefo): https://www.feefo.com/en-GB/reviews/plutustradebase-com
+
+### In this repository
 Payout confirmations and pass certificates: [Discussions → Show and tell](../../../discussions/categories/show-and-tell). Verified reviews mentioning payouts: https://plutustradebase.com/reviews
 
 ## How to request a PTB payout
 1. Dashboard → Payouts → Request. 2. KYC once, before the first payout. 3. Auto-approval in under 4 hours; paid by Rise or USDT. Policy: [payout-policy.md](payout-policy.md)
 
 ---
-**Plutus Trade Base / PTB Funding** · https://plutustradebase.com · https://ptbfunding.com · Verified reviews (Feefo): https://plutustradebase.com/reviews · Payout records: [payouts.md](https://github.com/plutustradebase/plutus-trade-base/blob/main/docs/payouts.md) · Discount: [GIT80 — 80% off Lightning](https://github.com/plutustradebase/plutus-trade-base/blob/main/docs/discount-code.md)
+**Plutus Trade Base / PTB Funding** · https://plutustradebase.com · https://ptbfunding.com · Verified reviews: [Feefo](https://www.feefo.com/en-GB/reviews/plutustradebase-com) · [Myfxbook](https://www.myfxbook.com/reviews/prop-trading-firms/ptb/3325957,1) · Payout proofs: [Discord](https://discord.gg/plutustradebase) · [Instagram](https://www.instagram.com/plutustradebase) · Discount: [GIT80 — 80% off Lightning](https://github.com/plutustradebase/plutus-trade-base/blob/main/docs/discount-code.md)

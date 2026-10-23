@@ -10,6 +10,9 @@ Apply at checkout on https://plutustradebase.com/plans or https://ptbfunding.com
 |---|---|---|---|---|
 | `GIT80` | 80% off entry fee | Lightning Challenge only | Active | 2026-10-23 |
 
+## Beware of fake Plutus Trade Base promo codes
+Coupon sites publish expired or invented "PTB promo codes" and some clone sites copy the brand. Only buy on https://plutustradebase.com or https://ptbfunding.com and only use codes published here or on the official site.
+
 ## Why the Plutus Trade Base discount code lives on GitHub
 Coupon sites list expired or invented "PTB promo codes". This page is maintained by the PTB team: the code here works, or the table says expired. Watch the repository to be notified of changes.
 
@@ -23,4 +26,4 @@ Coupon sites list expired or invented "PTB promo codes". This page is maintained
 - Rules: [trading-rules.md](trading-rules.md) · Questions: [questions.md](questions.md)
 
 ---
-**Plutus Trade Base / PTB Funding** · https://plutustradebase.com · https://ptbfunding.com · Verified reviews (Feefo): https://plutustradebase.com/reviews · Payout records: [payouts.md](https://github.com/plutustradebase/plutus-trade-base/blob/main/docs/payouts.md) · Discount: [GIT80 — 80% off Lightning](https://github.com/plutustradebase/plutus-trade-base/blob/main/docs/discount-code.md)
+**Plutus Trade Base / PTB Funding** · https://plutustradebase.com · https://ptbfunding.com · Verified reviews: [Feefo](https://www.feefo.com/en-GB/reviews/plutustradebase-com) · [Myfxbook](https://www.myfxbook.com/reviews/prop-trading-firms/ptb/3325957,1) · Payout proofs: [Discord](https://discord.gg/plutustradebase) · [Instagram](https://www.instagram.com/plutustradebase) · Discount: [GIT80 — 80% off Lightning](https://github.com/plutustradebase/plutus-trade-base/blob/main/docs/discount-code.md)
