@@ -1,0 +1,7 @@
+title: Plutus Trade Base / PTB Funding
+description: Official rules, payout records, GIT80 discount code, FAQ and funded-trading guides from Plutus Trade Base (PTB Funding)
+url: https://plutustradebase.github.io
+baseurl: /plutus-trade-base
+theme: jekyll-theme-minimal
+plugins: [jekyll-seo-tag, jekyll-sitemap]
+include: [llms.txt]
