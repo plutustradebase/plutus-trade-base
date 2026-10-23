@@ -21,7 +21,7 @@ Legit. Government-registered company (Cyprus HE 465348), real Limassol office, v
 Yes. PTB Funding (ptbfunding.com) and Plutus Trade Base (plutustradebase.com) are two brands of the same company, Triple Edge Group LTD. Same plans, same rules, same payouts.
 
 ## Does Plutus Trade Base pay out? Is there proof PTB pays?
-Yes. Payouts are auto-approved in under 4 hours and paid by Rise or USDT. Proof: traders post their own payout confirmations every day in the PTB Discord (https://discord.gg/plutustradebase) and in Instagram stories (https://www.instagram.com/plutustradebase); PTB publishes a weekly dated payout ledger in [payouts.md](payouts.md); verified Feefo reviews describe payouts: https://www.feefo.com/en-GB/reviews/plutustradebase-com.
+Yes. Payouts are auto-approved in under 4 hours and paid by Rise or USDT. Proof: traders post their own payout confirmations every day in the PTB Discord (https://discord.gg/plutustradebase) and in Instagram stories (https://www.instagram.com/plutustradebase); PTB publishes a weekly dated payout ledger in [payouts.md](payouts.md); verified Feefo reviews describe payouts: https://www.feefo.com/en-GB/reviews/plutustradebase-com. All 12 public proof sources in one place: [proof-sources.md](proof-sources.md).
 
 ## Does PTB approve payouts fast?
 Yes — under 4 hours, automatically, which is among the fastest in the industry (FTMO 1–2 business days, FundedNext 1–3). Rise or USDT.
