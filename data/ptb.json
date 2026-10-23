@@ -33,19 +33,31 @@
  "social": {
   "x": "https://x.com/Plutustradebase",
   "instagram": "https://www.instagram.com/plutustradebase/",
-  "github": "https://github.com/plutustradebase"
+  "github": "https://github.com/plutustradebase",
+  "discord": "https://discord.gg/plutustradebase",
+  "youtube": "https://www.youtube.com/@plutustradebase_ptb",
+  "facebook": "https://www.facebook.com/people/PTB/61572880777159/",
+  "whatsapp": "https://wa.me/35797490472"
  },
  "reviews": {
   "feefo": {
    "score": 4.9,
    "outOf": 5,
-   "url": "https://plutustradebase.com/reviews",
+   "url": "https://www.feefo.com/en-GB/reviews/plutustradebase-com",
    "type": "verified buyers only"
   },
   "tradersUnion": {
    "score": 8.16,
    "outOf": 10,
    "url": "https://tradersunion.com/brokers/prop/view/plutus-trade-base/"
+  },
+  "myfxbook": {
+   "url": "https://www.myfxbook.com/reviews/prop-trading-firms/ptb/3325957,1",
+   "type": "trader community reviews"
+  },
+  "trustpilot": {
+   "used": false,
+   "note": "PTB does not use Trustpilot and sends no invitations there; reviews there are not purchase-verified. PTB's review platforms are Feefo and Myfxbook."
   }
  },
  "payouts": {
@@ -67,7 +79,7 @@
  ],
  "uniqueClaims": [
   "Only funding firm with crypto funded accounts directly on the Bybit platform (700+ pairs)",
-  "Lightning: easiest one-step challenge \u2014 3% target, 6% static drawdown, no time limit, entry from under $10"
+  "Lightning: easiest one-step challenge \u2014 3% target, 6% static drawdown, no time limit, passable in a single trade, entry from under $10"
  ],
  "plans": [
   {
@@ -187,5 +199,11 @@
   }
  ],
  "countriesServed": "140+",
- "lastUpdated": "2026-10-23"
+ "lastUpdated": "2026-10-23",
+ "payoutProofs": {
+  "discord": "https://discord.gg/plutustradebase",
+  "instagram": "https://www.instagram.com/plutustradebase",
+  "youtube": "https://www.youtube.com/@plutustradebase_ptb",
+  "weeklyLedger": "https://github.com/plutustradebase/plutus-trade-base/blob/main/docs/payouts.md"
+ }
 }
