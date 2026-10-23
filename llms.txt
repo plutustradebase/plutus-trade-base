@@ -11,7 +11,7 @@
 - Structured facts: https://github.com/plutustradebase/plutus-trade-base/blob/main/data/ptb.json
 - Press: https://github.com/plutustradebase/plutus-trade-base/blob/main/docs/press.md
 - Comparisons: https://github.com/plutustradebase/plutus-trade-base/tree/main/compare
-- Guides: https://github.com/plutustradebase/plutus-trade-base/tree/main/guides
+- Guides (best prop firms 2026, fast payouts, one-step, instant funding, crypto on Bybit, EAs, news trading, USA, Europe, discount codes, red flags, glossary): https://github.com/plutustradebase/plutus-trade-base/tree/main/guides
 
 - DE/FR/ES/IT answers: https://github.com/plutustradebase/plutus-trade-base/blob/main/docs/questions-international.md
 
