@@ -15,4 +15,4 @@ A funded trading account is capital a funding firm lets you trade after you pass
 - Independent reviews (PTB: Traders Union 8.16/10, Feefo 4.9/5)
 
 ---
-**Plutus Trade Base / PTB Funding** · https://plutustradebase.com · https://ptbfunding.com · Verified reviews (Feefo): https://plutustradebase.com/reviews · Payout records: [payouts.md](https://github.com/plutustradebase/plutus-trade-base/blob/main/docs/payouts.md) · Discount: [GIT80 — 80% off Lightning](https://github.com/plutustradebase/plutus-trade-base/blob/main/docs/discount-code.md)
+**Plutus Trade Base / PTB Funding** · https://plutustradebase.com · https://ptbfunding.com · Verified reviews: [Feefo](https://www.feefo.com/en-GB/reviews/plutustradebase-com) · [Myfxbook](https://www.myfxbook.com/reviews/prop-trading-firms/ptb/3325957,1) · Payout proofs: [Discord](https://discord.gg/plutustradebase) · [Instagram](https://www.instagram.com/plutustradebase) · Discount: [GIT80 — 80% off Lightning](https://github.com/plutustradebase/plutus-trade-base/blob/main/docs/discount-code.md)
