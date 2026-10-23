@@ -1,0 +1,51 @@
+name: "⭐ Leave a Plutus Trade Base / PTB Funding review"
+description: "Your review of PTB — plan, rating, payout. Posted publicly under your GitHub account."
+title: "Review: Plutus Trade Base — [plan] [size] — _/5"
+labels: ["review"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for reviewing **Plutus Trade Base / PTB Funding**. Reviews are public and permanent. Please blur personal details in screenshots. Verified-buyer reviews also live on [Feefo](https://www.feefo.com/en-GB/reviews/plutustradebase-com); payout proofs on [Discord](https://discord.gg/plutustradebase)."
+  - type: dropdown
+    id: rating
+    attributes:
+      label: Rating
+      options: ["5/5", "4/5", "3/5", "2/5", "1/5"]
+    validations: { required: true }
+  - type: dropdown
+    id: plan
+    attributes:
+      label: Plan
+      options: ["Lightning", "Freedom", "Adventure", "Instant Funding", "Bybit Crypto", "Two-Step"]
+    validations: { required: true }
+  - type: input
+    id: size
+    attributes: { label: "Account size", placeholder: "$100,000" }
+  - type: dropdown
+    id: passed
+    attributes:
+      label: Passed the challenge?
+      options: ["Yes", "Not yet / still trading", "No"]
+  - type: dropdown
+    id: payout
+    attributes:
+      label: Payout received?
+      options: ["Yes", "Not requested yet", "No"]
+  - type: input
+    id: payout_time
+    attributes: { label: "Payout approved in (hours)", placeholder: "e.g. 2" }
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options: ["MT5", "TradeLocker", "cTrader", "TradingView", "Bybit"]
+  - type: textarea
+    id: good
+    attributes: { label: "What was good", placeholder: "Be specific — numbers, dates, what happened." }
+    validations: { required: true }
+  - type: textarea
+    id: better
+    attributes: { label: "What could be better" }
+  - type: textarea
+    id: proof
+    attributes: { label: "Screenshot (optional)", placeholder: "Drag an image here. Blur personal details." }

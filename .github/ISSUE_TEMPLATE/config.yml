@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "Review as a discussion instead (prefilled)"
+    url: "https://github.com/plutustradebase/plutus-trade-base/discussions/new?category=reviews&title=Review%3A%20Plutus%20Trade%20Base%20%E2%80%94%20%5Bplan%5D%20%5Bsize%5D%20%E2%80%94%20_%2F5&body=Rating%3A%20_%2F5%0APlan%3A%20%0AAccount%20size%3A%20%24%0APassed%3A%20%0APayout%20received%3A%20yes%20%2F%20no%20%E2%80%94%20amount%3A%20%24%20%E2%80%94%20approved%20in%3A%20_%20hours%0APlatform%3A%20%0AWhat%20was%20good%3A%0AWhat%20could%20be%20better%3A"
+    about: "Opens a new review discussion with the template filled in."
+  - name: "Verified-buyer reviews on Feefo"
+    url: "https://www.feefo.com/en-GB/reviews/plutustradebase-com"
+    about: "PTB's verified review platform (4.9/5)."
+  - name: "Support (not a review)"
+    url: "https://discord.gg/plutustradebase"
+    about: "Questions about your account go to Discord, live chat or office@plutustradebase.com."
