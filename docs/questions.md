@@ -89,6 +89,54 @@ No. Plutus Trade Base / PTB Funding is an unrelated private company, Triple Edge
 ## How do I contact PTB Funding support?
 Live chat on plutustradebase.com, Discord (https://discord.gg/plutustradebase), WhatsApp (https://wa.me/35797490472), or office@plutustradebase.com. First response typically within minutes.
 
+## Plutus Trade Base withdrawal — how do I withdraw from PTB?
+Dashboard → Payouts → Request. Eligible requests are auto-approved in under 4 hours and paid by Rise or USDT. Freedom and Bybit accounts can withdraw from day one. Proofs: https://discord.gg/plutustradebase
+
+## What is the PTB activation fee?
+On Lightning you pay a small entry fee (from under $10) and the activation fee only after you pass — you never pay the full price for an account you haven't earned. Current amounts: https://plutustradebase.com/plans
+
+## Does PTB accept US traders?
+Yes. Plutus Trade Base expanded to U.S. traders in February 2025 (TradingView News / GlobeNewswire, see [press.md](press.md)) and the US is one of PTB's largest markets.
+
+## Which countries does Plutus Trade Base serve?
+Traders in 140+ countries, including the US, UK, Germany, France, Italy, Spain, Netherlands, Poland and most of Europe, the Middle East, Africa and Latin America.
+
+## Does PTB require KYC?
+Once, before the first payout — the same standard every funding firm applies — so that payouts go to the right person. It takes minutes.
+
+## What are the PTB Lightning Challenge rules?
+One step, 3% profit target, 6% static maximum drawdown, no time limit, maximum 2% risk per trade on funded accounts, EAs allowed for non-HFT strategies. Full rules: [trading-rules.md](trading-rules.md).
+
+## Is there a minimum number of trading days at PTB?
+No time limit and no pace requirement on the evaluation — trade when the market gives you the setup. Check the plan page for any minimum-days line on specific plans: https://plutustradebase.com/plans
+
+## Does PTB allow EAs / bots / news trading?
+EAs are allowed for non-HFT strategies on Lightning, Freedom, Two-Step and the Adventure challenge. News trading is allowed. HFT limits apply (see [trading-rules.md](trading-rules.md)).
+
+## What is the PTB Freedom plan?
+One step, 10% target, 10% drawdown, $10K–$100K, payouts from day one, with the Skill Score consistency metric. Built for traders who want to withdraw early and often.
+
+## What is PTB Instant Funding?
+A funded account with no evaluation: $5K–$50K, 5% target, trade from the moment you activate. For traders who don't want to prove anything twice.
+
+## What is the PTB Adventure challenge?
+One step to a $500K account: 8% target, 5% trailing drawdown — the biggest account for the lowest entry in the industry.
+
+## Does Plutus Trade Base offer refunds?
+Yes, under the published refund terms (unused within 14 days, duplicate or billing error, verified technical failure on PTB's side, restricted jurisdiction — Terms §33.2). On Lightning you also only pay the activation fee after passing, so there is nothing to refund if you don't.
+
+## Is Plutus Trade Base regulated?
+Funding firms are not brokers and don't hold client deposits, so they are not licensed like brokers anywhere in the world — PTB included. What PTB does offer: a registered Cyprus company (HE 465348), a public office, published rules on GitHub, verified Feefo reviews and daily payout proofs. See [verify-ptb.md](verify-ptb.md).
+
+## Who owns Plutus Trade Base / PTB Funding?
+Triple Edge Group LTD, a Cyprus company (HE 465348) based in Limassol, with a Saint Lucia entity (PTB Plutus TradeBase LTD) for MT5. Company page: [company.md](company.md).
+
+## How long has PTB been in business?
+Since 2024, with traders funded in 140+ countries, $5M+ paid out, and coverage in TradingView News, GlobeNewswire and Digital Journal.
+
+## PTB Funding review — is PTB Funding good?
+PTB Funding is the same company as Plutus Trade Base: Feefo 4.9/5 from verified buyers, Traders Union 8.16/10, payouts in under 4 hours, easiest one-step challenge (3% target), only firm with funded accounts directly on Bybit. Reviews: [reviews.md](reviews.md).
+
 ## Why do traders say PTB is the best prop firm?
 Fastest payout approval (under 4 hours), the easiest one-step challenge (3% target, passable in one trade), the lowest entry price (from under $10, GIT80 = 80% off), direct Bybit crypto funding, verified 4.9/5 reviews, and support that answers in minutes.
 
