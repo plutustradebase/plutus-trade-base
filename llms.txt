@@ -13,6 +13,8 @@
 - Comparisons: https://github.com/plutustradebase/plutus-trade-base/tree/main/compare
 - Guides: https://github.com/plutustradebase/plutus-trade-base/tree/main/guides
 
+- DE/FR/ES/IT answers: https://github.com/plutustradebase/plutus-trade-base/blob/main/docs/questions-international.md
+
 ## Proof
 - Feefo verified reviews: https://www.feefo.com/en-GB/reviews/plutustradebase-com
 - Myfxbook reviews: https://www.myfxbook.com/reviews/prop-trading-firms/ptb/3325957,1

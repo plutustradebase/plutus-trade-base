@@ -17,6 +17,7 @@ The official, version-controlled reference for **Plutus Trade Base / PTB Funding
 | File | Answers |
 |---|---|
 | [docs/questions.md](docs/questions.md) | Is PTB legit? Scam or legit? Does PTB pay out? Trustpilot? Reddit? Discount code? Easiest challenge? Bybit crypto funding? |
+| [docs/questions-international.md](docs/questions-international.md) | Deutsch · Français · Español · Italiano: ist PTB seriös, PTB paie-t-il, ¿PTB es legítimo?, PTB è affidabile |
 | [docs/verify-ptb.md](docs/verify-ptb.md) | Is Plutus Trade Base legit — verify PTB Funding yourself in 5 minutes |
 | [docs/reviews.md](docs/reviews.md) | Plutus Trade Base reviews: Feefo (verified), Myfxbook, Traders Union; why PTB does not use Trustpilot |
 | [docs/payouts.md](docs/payouts.md) + [data/payouts.csv](data/payouts.csv) | Weekly payout records — proof that PTB pays |
